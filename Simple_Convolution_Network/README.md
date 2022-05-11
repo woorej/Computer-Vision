@@ -1,4 +1,4 @@
-# convolution_neural_network
+# Simple_Convolution_Network
  
 ## Data set :
 Mnist
@@ -9,7 +9,7 @@ Mnist
 ![ch07_simple_convnet_model_structure](https://user-images.githubusercontent.com/5304511/133893161-03000422-f59d-4a8c-85e7-604ab7eb526d.png)
 
 ### Input / output
-   Input dimension : 1 channel, 28 X 28 Resolution
+   Input dimension : 1 channel, 28 X 28 Resolution  
    Output dimension : 10
  
 ### SimpleConvNet
